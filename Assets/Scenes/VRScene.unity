@@ -209,7 +209,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 26462115}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0.3}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_Children: []
   m_Father: {fileID: 0}
@@ -355,12 +355,12 @@ PrefabInstance:
     - target: {fileID: 9007198287704459968, guid: 252fb565dcf3163469310a1f509d0938,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 33.8
+      value: 29.6
       objectReference: {fileID: 0}
     - target: {fileID: 9007198287704459968, guid: 252fb565dcf3163469310a1f509d0938,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 28.8
+      value: 34.9
       objectReference: {fileID: 0}
     - target: {fileID: 9007198287704459968, guid: 252fb565dcf3163469310a1f509d0938,
         type: 3}
@@ -511,7 +511,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1105951227}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.4, y: -0.18, z: 2.54}
+  m_LocalPosition: {x: -1.05, y: 1.2, z: 2.54}
   m_LocalScale: {x: 27.441267, y: 3.7094963, z: 0.20081829}
   m_Children: []
   m_Father: {fileID: 0}
@@ -698,17 +698,17 @@ TrailRenderer:
     colorGradient:
       serializedVersion: 2
       key0: {r: 1, g: 1, b: 1, a: 1}
-      key1: {r: 1, g: 1, b: 1, a: 1}
-      key2: {r: 0, g: 0, b: 0, a: 0}
-      key3: {r: 0, g: 0, b: 0, a: 0}
+      key1: {r: 0.31772876, g: 0.5039605, b: 0.5660378, a: 1}
+      key2: {r: 0.31683874, g: 0.69336647, b: 0.754717, a: 0}
+      key3: {r: 1, g: 1, b: 1, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
       key5: {r: 0, g: 0, b: 0, a: 0}
       key6: {r: 0, g: 0, b: 0, a: 0}
       key7: {r: 0, g: 0, b: 0, a: 0}
       ctime0: 0
-      ctime1: 65535
-      ctime2: 0
-      ctime3: 0
+      ctime1: 964
+      ctime2: 27949
+      ctime3: 65535
       ctime4: 0
       ctime5: 0
       ctime6: 0
@@ -722,7 +722,7 @@ TrailRenderer:
       atime6: 0
       atime7: 0
       m_Mode: 0
-      m_NumColorKeys: 2
+      m_NumColorKeys: 4
       m_NumAlphaKeys: 2
     numCornerVertices: 0
     numCapVertices: 0
@@ -1003,7 +1003,7 @@ PrefabInstance:
     - target: {fileID: 9007198287704459968, guid: 252fb565dcf3163469310a1f509d0938,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.08
+      value: 2.29
       objectReference: {fileID: 0}
     - target: {fileID: 9007198287704459968, guid: 252fb565dcf3163469310a1f509d0938,
         type: 3}
